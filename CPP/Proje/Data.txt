@@ -1,0 +1,5 @@
+Oturanlar:
+Adi: Ahmet Yilmaz, Daire Numarasi: 1  
+Adi: Elif Demir, Daire Numarasi: 2  
+Adi: Mehmet Kaya, Daire Numarasi: 3  
+

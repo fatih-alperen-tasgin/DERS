@@ -1,0 +1,18 @@
+Odemeler:
+-----------------------------
+Adi: Ahmet Yilmaz
+Daire Numarasi: 1
+Odeme Miktari: 1500 TL
+Odeme Tarihi: 01/12/2024
+-----------------------------
+Adi: Elif Demir
+Daire Numarasi: 2
+Odeme Miktari: 1800 TL
+Odeme Tarihi: 02/12/2024
+-----------------------------
+Adi: Mehmet Kaya
+Daire Numarasi: 3
+Odeme Miktari: 1200 TL
+Odeme Tarihi: 03/12/2024
+-----------------------------
+

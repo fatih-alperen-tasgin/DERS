@@ -1,0 +1,15 @@
+Daireler:
+1. Daire - 2+1, 100m2 
+2. Daire - 3+1, 120m2 
+3. Daire - 1+1, 70m2 
+
+Spor Salonu:
+Acilis saati: 06:00 - 22:00
+Ekipmanlar: Kosu bandi, agirliklar, bisiklet ...
+Haftalik aktivite: Yoga, pilates ...
+
+Havuzlar:
+1. Kapali Havuz - Derinlik: 4m, 10x20m, 08:00 - 20:00 arasi acik
+2. Acik Havuz - Derinlik: 4m, 15x30m, 09:00 - 18:00 arasi acik
+3. Cocuk Havuzu - Derinlik: 1m, 10:00 - 17:00 arasi acik 
+
