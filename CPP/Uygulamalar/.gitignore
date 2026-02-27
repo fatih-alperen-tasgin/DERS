@@ -1,0 +1,14 @@
+# C++ build outputs (Windows/MinGW/MSVC)
+*.exe
+*.out
+*.obj
+*.o
+*.ilk
+*.pdb
+
+# VS Code temporary/debug files
+*.idb
+*.log
+
+# Optional: keep VS Code settings in repo if you want
+# .vscode/
